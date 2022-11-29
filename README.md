@@ -1,4 +1,5 @@
 # OnlineFoodOrderingSystem
 
 FoodOrdering-React contains all the front-end part.
-FoodOrdering contains all the backend part.
+
+Food-Ordering contains all the backend part.
